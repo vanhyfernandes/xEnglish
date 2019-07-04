@@ -1,4 +1,4 @@
-# xEnglish
+# xEnglish!
 Educational game to learn English built in JavaScript only.
 
 As English is the most popular language spoken in the world, many people have
