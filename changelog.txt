@@ -1,0 +1,83 @@
+week 4, Friday, 29/March
+- Created project structure
+- Started the menu
+
+Progress week 4: the progress is good, according to my milestones.
+
+week 5, Sunday, 31/March
+- Created function to button and paragraph
+- Trying to find a solution for the error "TypeError: undefined is not an object (evaluating 'body.appendChild')"
+- Found the problem
+
+week 5, Thursday, 04/March
+- Created styles
+- Created function to load level 1
+- Create game windows
+    - Correct answer window
+    - Wrong answer window
+    - Question window
+
+Week 5, Sunday, 07/Apr
+- Some adjustments on level 1
+- New styles
+
+Progress week 5: the progress is good, according to my milestones. I could find the resolution to the error fast.
+
+Week 6, Monday, 08/Apr
+- Exit window
+
+Week 6, Sunday, 14/Apr
+- New adjustments on the functions
+
+Progress week 6: the progress is good, according to my milestones.
+
+Week 7, Monday, 15/Apr
+- Create new function main
+- Adjustments on the functions
+- Adjustments on the buttons
+
+Week 7, Wednesday, 17/Apr
+- Adjusting function main
+- Create new styles
+
+Week 7, Friday, 26/Apr
+- Create the final page
+- Create the verifyLevel function
+- Create the finish topic level page
+- Changing the game to drag and drop the answers
+
+Progress week 7: the progress is good, according to my milestones.
+
+Week 8, Monday, 29/Apr
+- Get Data
+- Finish all levels Data for verb tense, prepositions and pronouns
+
+Week 8, Tuesday, 30/Apr
+- Get Data
+- Finish all levels Data for adjectives and phrasal verbs
+
+Progress week 8: the progress is good, according to my milestones.
+
+Week 9, Thursday, 09/May
+- all data finished
+- Verify marking criteria
+
+Week 9, Friday, 10/May
+- Create menu (licence, instruction)
+- Create readme.txt
+
+Week 9, Saturday, 11/May
+- Finish the top menu bar
+- Create the about page
+- Create the instructions page
+- Finish marking justification
+- Pooling the code
+
+Progress week 9: the progress is good, according to my milestones.
+
+Week 10, Tuesday, 14/May
+- Create video demonstration
+- Finalyse game
+- Test bugs
+
+Progress: all work done!

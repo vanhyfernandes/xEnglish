@@ -1,0 +1,115 @@
+/*
+#850C4B
+#B31166
+*/
+
+body {
+  font-family: Arial, cursive, Arial;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+}
+
+.content {
+  background: rgba(0, 0, 0, 0.7);
+  color: #f1f1f1;
+  margin-left: 20px;
+  margin-right: 20px;
+  min-height: 100%;
+  padding: 20px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+h2{
+  font-size: 28px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+label{
+  font-size: 26px;
+  text-align: center;
+}
+
+/*
+  Button
+*/
+.btn {
+  padding: 10px 24px;
+  margin: 10px;
+  border: 1px solid #850C4B;
+  cursor: pointer;
+  min-width: 30%;
+  display: block;
+  background-color: #850C4B;
+  font-size: 18px;
+  text-align: center;
+  color: white;
+  border-radius: 20px;
+  position: relative;
+  left: 35%;
+  right: 50%;
+}
+
+.btn:hover {
+  background-color: #B31166;
+}
+
+.disable{
+   cursor: not-allowed;
+   pointer-events: none;
+   background-color: grey;
+   padding: 10px 24px;
+   margin: 10px;
+   border: 1px solid #grey;
+   width: 30%;
+   display: block;
+   font-size: 24px;
+   text-align: center;
+   color: white;
+   border-radius: 20px;
+   position: relative;
+   left: 35%;
+   right: 50%;
+}
+
+/*
+  Top menu
+*/
+.topnav {
+  overflow: hidden;
+  background-color: black;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #850C4B;
+
+  color: white;
+}
+
+.active {
+  background-color: black;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
