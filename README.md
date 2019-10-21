@@ -12,22 +12,22 @@ get fluency on the language and understand its structure in a funny way. In the
 other hand, native speakers can improve their insight by using the app. It helps
 users grammatically considering the following topics:
 
-  Verb Tense
-    Present Simple
-    Present Continuous
-    Present Perfect
-    Past Simple
-    Past Continuous
-    Past perfect
-    Future
-  Prepositions
-  Pronouns
-  Adjectives
-  Conditionals
-    First Conditional
-    Second Conditional
-    Third Conditional
-  Phrasal Verbs
+  - Verb Tense
+    - Present Simple
+    - Present Continuous
+    - Present Perfect
+    - Past Simple
+    - Past Continuous
+    - Past perfect
+    - Future
+  - Prepositions
+  - Pronouns
+  - Adjectives
+  - Conditionals
+    - First Conditional
+    - Second Conditional
+    - Third Conditional
+  - Phrasal Verbs
 
 Major functions
 
